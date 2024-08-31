@@ -1,6 +1,9 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
+![image](https://github.com/user-attachments/assets/589d52d7-4ec7-48fe-bbe8-105052215ce0)
+
+
 # Sequential Searching Object
 
 This repository contains a Java implementation of a simple object-based sequential search algorithm. The project demonstrates how to create a custom object that can be compared using the Comparable interface and how to perform a sequential search on an array of such objects.
